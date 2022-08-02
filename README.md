@@ -8,6 +8,7 @@ I can think of
 - clean code
 - design pattern
 - the way of professional craft man ship
+- any software design principle
 
 so I decide to note everything as I can in this repository
 
@@ -19,4 +20,4 @@ so I decide to note everything as I can in this repository
 
 - [Design Pattern](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) by  Gamma Erich (Author), Helm Richard, Johnson Ralph, Vlissides John, Grady Booch 
 
-- [Software design Roadmap](https://www.freecodecamp.org/news/software-design/) - freecamp code
+- [Software design Roadmap](https://www.freecodecamp.org/news/software-design/) - freecode camp
