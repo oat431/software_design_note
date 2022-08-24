@@ -1,3 +1,3 @@
 # Code smell Do and Dont
 
-soon.
+this is a mark or a memo that I am not going to Do
