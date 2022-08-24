@@ -1,3 +1,3 @@
 # Code smell Do and Dont
 
-soon.
+most material from Clean Code : A Handbook of Agile Software Craftsmanship
