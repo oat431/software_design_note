@@ -4,20 +4,20 @@ this might not relate to Software Design, But I think it good to have this skill
 
 UX law
 - Aesthetic Usability Effect
-- The Doherty Threshold
+- Zeigarnik Effect
+- Serial Position Effect
+- Pareto Principle
+- Robustness Principle
 - Fitts' Law
 - Hick-Hyman Law
 - Jakob's Law
 - Prägnanz's Law
 - Miller's Law
 - Occam's Razor
-- Pareto Principle
 - Parkinson's Law
-- Peak-End Rule
-- Postel's Law (Robustness Principle)
-- Serial Position Effect
 - Tesler's Law
-- Zeigarnik Effect
+- Peak-End Rule
+- The Doherty Threshold
 
 UX Deisng Principles
 - User-centrered Design
