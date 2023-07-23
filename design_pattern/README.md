@@ -30,3 +30,5 @@ Collection the all of 23 design pattern Example and summarize explanation
 - Iterator
 - Interpreter
 - Mememto
+
+![big picture of design pattern](https://static.infinitescript.com/wordpress/wp-content/uploads/2014/10/Design-Pattern-Relationships.jpg)
