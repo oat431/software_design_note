@@ -14,11 +14,11 @@ Writing the code for Software Engineer to read and maintain
 - Funcational Programming
 
 ## Design Principles
-- Single Responsiblity Principle
-- Open-closed Principle
-- Liskov Substitution Principle
-- Interface Segragation Principle
-- Dependency Inversion Principle
+- ***S***ingle Responsiblity Principle
+- ***O***pen-closed Principle
+- ***L***iskov Substitution Principle
+- ***I***nterface Segragation Principle
+- ***D***ependency Inversion Principle
 
 ## Component Principles
 - Components
