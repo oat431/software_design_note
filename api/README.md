@@ -12,3 +12,13 @@
 - Processing
 - Monitoring
 - CI/CD
+
+## API Type
+- SOAP (Simple Object Access Protocol)
+- REST
+- GraphQL
+- gRPC
+- WebSocket
+- WebHook
+- MQTT (Message Broker)
+- AMQP
