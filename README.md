@@ -1,6 +1,6 @@
 # Software Design Note
 
-This is a life long learning of the Software Engineering in Software Design
+This is a life long learning of my software engineering career about Software Design
 
 - clean architecture
 - clean code principle
